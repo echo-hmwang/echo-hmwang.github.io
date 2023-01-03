@@ -14,7 +14,8 @@ I am a senior year student majoring in Automation Science and Engineer at [Xi'an
 ## Research
 ______________________
 
-## Education/Internship experience
+
+## Education/Internship
 __________________________
 
 - 2019-2023: B.Eng in Automation, Xi'an Jiao Tong University
