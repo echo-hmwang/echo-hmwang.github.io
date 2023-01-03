@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 __________________________
-I am a senior year student majoring in Automation Science and Engineer at [Xi'an Jiao Tong University](www.xjtu.edu.cn). I am also an incoming Ph.D. student in 2023 Fall at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/).
+I am a senior year student majoring in Automation Science and Engineer at [Xi'an Jiao Tong University](www.xjtu.edu.cn). I am also an incoming Ph.D. student in Fall 2023 at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/).
 
 ## Research
-
+I have broad interests in the general areas of speech technology for health and multi-modal speech processing.
 
 ## Education/Internship
 
