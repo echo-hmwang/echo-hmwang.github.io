@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Automation Science and Engineer, Xi'an Jiao Tong University, 2023
+* B.S. in Automation Science and Engineer, Xi'an Jiao Tong University, 2023(expected)
 
 Internship experience
 ======
-* Summer 2022: visiting student
-  * School of Computing, National University of Singapore 
-  * Summer workshop 2022
+* Program: NUS SOC Summer workshop 2022
+  * Organization: National University of Singapore 
+  * Duty: visiting student
   * Course: Real-Time Graphics Rendering
 
   
