@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Huimeng Wang"
   avatar           : "profile.png"
-  bio              : "Just a novice in speech processing and machine learning."
+  bio              : 
   location         : "Xi'an, Shaanxi Province, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
