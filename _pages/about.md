@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About mef"
-excerpt: "About mes"
+title: "Homepage"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,8 +11,12 @@ redirect_from:
 __________________________
 I am a senior year student majoring in Automation Science and Engineer at [Xi'an Jiao Tong University](www.xjtu.edu.cn). I am also an incoming Ph.D. student in 2023 Fall at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/).
 
+## Research
+______________________
+
 ## Education/Internship experience
 __________________________
+
 - 2019-2023: B.Eng in Automation, Xi'an Jiao Tong University
 
 - 2022/5-2022/7: Visiting student at School of Computing(SOC) Summer Workshop 2022, National University of Singapore
