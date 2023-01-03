@@ -12,7 +12,6 @@ __________________________
 I am a senior year student majoring in Automation Science and Engineer at [Xi'an Jiao Tong University](www.xjtu.edu.cn). I am also an incoming Ph.D. student in 2023 Fall at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/).
 
 __________________________
-
 ### Education/Internship experience
 - 2019-2023: B.Eng in Automation, Xi'an Jiao Tong University
 
