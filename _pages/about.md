@@ -24,4 +24,4 @@ My research interests mainly lie in data augmentation and speech processing.
 - 2023/3-2023/5: Research Assistant at HCCL in CUHK
 
 
-> *last modified at 2023/06/16*
+> *last modified on 2023/06/16*
