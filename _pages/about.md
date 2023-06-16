@@ -9,16 +9,16 @@ redirect_from:
 ---
 
 __________________________
-I am a final year student majoring in Automation Science and Engineer at [Xi'an Jiao Tong University](www.xjtu.edu.cn). I am also an incoming Ph.D. student in Fall 2023 at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/).
+Huimeng Wang is now a Ph.D. student in the Human-Computer Communications Laboratory(HCCL) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/), HongKong SAR. Before that, he obtained the B.Eng. degree in Automation from Faculty of Electronic and Information Engineering at [Xi'an Jiao Tong University](www.xjtu.edu.cn), Xi'an, Shaanxi Province, China, in 2023.
 
-## Research
-My research interests mainly lie in deep learning, especially in its application on speech and language processing, and general speech technology.
+His research interests mainly lie in data augmentation and speech processing.
 
+## Education
 
-## Education/Internship
+- 2023-now: Ph.D. student in SEEM, The Chinese University of Hong Kong
 
 - 2019-2023: B.Eng in Automation, Xi'an Jiao Tong University
 
-- 2023/3-2023/5: Junior Research Assistant at HCCL in CUHK
+## Internship
 
-- 2022/5-2022/7: Visiting student at School of Computing(SOC) Summer Workshop 2022, National University of Singapore
+- 2023/3-2023/5: Research Assistant at HCCL in CUHK
