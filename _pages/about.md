@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 __________________________
-I am now a Ph.D. student supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/) in the Human-Computer Communications Laboratory(HCCL) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/), Honge Kong SAR. Before that, I obtained the B.Eng. degree in Automation from Faculty of Electronic and Information Engineering at [Xi'an Jiao Tong University](www.xjtu.edu.cn), Xi'an, Shaanxi Province, China, in 2023.
+I am now a Ph.D. student supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/) in the Human-Computer Communications Laboratory(HCCL) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/), Honge Kong SAR. Before that, I obtained the B.Eng. degree in Automation from Faculty of Electronic and Information Engineering at [Xi'an Jiao Tong University](http://www.xjtu.edu.cn/), Xi'an, Shaanxi Province, China, in 2023.
 
 My research interests mainly lie in data augmentation and speech processing.
 
