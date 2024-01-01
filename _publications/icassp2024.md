@@ -1,6 +1,5 @@
 ---
 title: "Enhancing Pre-trained ASR System Fine-tuning For Dysarthric Speech Recognition Using Adversarial Data Augmentation"
-title: "ENHANCING PRE-TRAINED ASR SYSTEM FINE-TUNING FOR DYSARTHRIC SPEECH RECOGNITION USING ADVERSARIAL DATA AUGMENTATION"
 collection: publications
 permalink: /publication/icassp2024
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
