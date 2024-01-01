@@ -84,24 +84,12 @@ author:
   avatar           : "profile_sun2.jpg"
   bio              : "Ph.D. student@CUHK, B.Eng@XJTU"
   location         : "Sha Tin, Hong Kong SAR"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "wanghuimeng66@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  researchgate     :  "https://www.researchgate.net/profile/Huimeng-Wang-4"
   github           : "echo-hmwang"
   google_plus      :
-  keybase          :
-  linkedin         :
-  stackoverflow    :  "15656161/echo"
-  twitter          : #"WANGHUIMENG_"
+  linkedin         : "https://www.linkedin.com/in/huimeng-wang-75b95b23a/"
 
 
 # Reading Files
