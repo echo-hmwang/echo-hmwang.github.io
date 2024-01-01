@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
 
 ## About me
 I am currently a Ph.D. student luckily supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/), Hong Kong SAR. Before that, I obtained the B.Eng. degree in Automation from Faculty of Electronic and Information Engineering at [Xi'an Jiao Tong University](http://www.xjtu.edu.cn/), Xi'an, Shaanxi Province, China, in 2023.
 
 ## News
-
+- *2023.12*: My first Paper was accepted by ICASSP2024.
 
 ## Experience
 
@@ -27,10 +26,14 @@ I am currently a Ph.D. student luckily supervised by Prof. [Xunying Liu](https:/
 - 2019-2023: B.Eng in Automation, Xi'an Jiao Tong University
 
 ## Publication
+- Enhancing Pre-trained ASR System Fine-tuning For Dysarthric Speech Recognition Using Adversarial Data Augmentation
+  **Huimeng Wang**$^*$, Zengrui Jin$^*$, Mengzhe Geng, Shujie Hu, Tianzi Wang, Guinan Li, Haoning Xu, Xunying Liu
+  IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP), 2024
 
 ## Awards
+- **National Scholarship** in 2020
 
 ## Teaching
-
+- SEEM 4540: Open Systems for E-Commerce (TA, 2024 Spring)
 _____
 > *last modified on 2024/01/01*
