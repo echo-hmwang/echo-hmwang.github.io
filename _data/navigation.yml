@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/##about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/##-news"
 
   - title: "Experience"
-    url: "/#-experience"
+    url: "/##-experience"
 
   - title: "Education"
-    url: "/#-education"
+    url: "/##-education"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/##-publications"
 
   - title: "Awards"
-    url: "/#-awards"
+    url: "/##-awards"
 
-  - title: "Teaching Assistance"
-    url: "/#-teaching-assistance"
+  - title: "Teaching"
+    url: "/##-teaching"
