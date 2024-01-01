@@ -26,6 +26,8 @@ I am currently a Ph.D. student luckily supervised by Prof. [Xunying Liu](https:/
 - 2019-2023: B.Eng in Automation, Xi'an Jiao Tong University
 
 ## Publication
+*\* denotes equal contribution.*
+
 - Enhancing Pre-trained ASR System Fine-tuning For Dysarthric Speech Recognition Using Adversarial Data Augmentation
 
   **Huimeng Wang**<sup>*</sup>, Zengrui Jin<sup>*</sup>, Mengzhe Geng, Shujie Hu, Tianzi Wang, Guinan Li, Haoning Xu, Xunying Liu
