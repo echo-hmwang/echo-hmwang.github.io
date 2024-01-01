@@ -28,9 +28,9 @@ I am currently a Ph.D. student luckily supervised by Prof. [Xunying Liu](https:/
 ## Publication
 - Enhancing Pre-trained ASR System Fine-tuning For Dysarthric Speech Recognition Using Adversarial Data Augmentation
 
-  **Huimeng Wang**, Zengrui Jin, Mengzhe Geng, Shujie Hu, Tianzi Wang, Guinan Li, Haoning Xu, Xunying Liu
+  **Huimeng Wang $^*$ **, Zengrui Jin $^*$, Mengzhe Geng, Shujie Hu, Tianzi Wang, Guinan Li, Haoning Xu, Xunying Liu
 
-  IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP), 2024
+  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
 
 ## Awards
 - **National Scholarship** in 2020
