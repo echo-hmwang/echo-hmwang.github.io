@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## About me
-I am currently a Ph.D. student luckily supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/), Hong Kong SAR. Before that, I obtained the B.Eng. degree in Automation from Faculty of Electronic and Information Engineering at [Xi'an Jiao Tong University](http://www.xjtu.edu.cn/), Xi'an, Shaanxi Province, China, in 2023.
+I am currently a Ph.D. student luckily supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/). Before that, I obtained the B.Eng. degree from Faculty of Electronic and Information Engineering at [Xi'an Jiao Tong University](http://www.xjtu.edu.cn/) in 2023.
 
 My current research mainly focus on personalized data generation or augmentation based on generative models to enhance the performance of backend automatic speech recognition systems.
 
