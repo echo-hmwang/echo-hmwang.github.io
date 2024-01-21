@@ -12,6 +12,8 @@ I am currently a Ph.D. student luckily supervised by Prof. [Xunying Liu](https:/
 
 My current research mainly focuses on personalized data generation or augmentation based on generative models to enhance the performance of backend automatic speech recognition systems.
 
+[Curriculum_Vitae](https://drive.google.com/file/d/1VnDXiqgZZxD0RPumyaTGcaP4O97ar8dX/view?usp=drive_link)
+
 ## News
 - *2023.12*: My first Paper was accepted by ICASSP2024.
 
