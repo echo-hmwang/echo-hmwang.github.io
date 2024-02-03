@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## About me
-I am currently a Ph.D. student luckily supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/). Before that, I obtained the B.Eng. degree from Faculty of Electronic and Information Engineering at [Xi'an Jiao Tong University](http://www.xjtu.edu.cn/) in 2023.
+I am currently a Ph.D. student supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/). Before that, I obtained the B.Eng. degree from Faculty of Electronic and Information Engineering at [Xi'an Jiao Tong University](http://www.xjtu.edu.cn/) in 2023.
 
 My current research mainly focuses on personalized data generation or augmentation based on generative models to enhance the performance of backend automatic speech recognition systems.
 
@@ -32,12 +32,12 @@ My current research mainly focuses on personalized data generation or augmentati
 
 - Enhancing Pre-trained ASR System Fine-tuning For Dysarthric Speech Recognition Using Adversarial Data Augmentation [[Paper](https://arxiv.org/pdf/2401.00662.pdf)]
 
-  **Huimeng Wang**<sup>*</sup>, Zengrui Jin<sup>*</sup>, Mengzhe Geng, Shujie Hu, Guinan Li, Tianzi Wang, Haoning Xu, Xunying Liu
+  **Huimeng Wang**<sup>*</sup> , Zengrui Jin<sup>*</sup>, Mengzhe Geng, Shujie Hu, Guinan Li, Tianzi Wang, Haoning Xu, Xunying Liu
 
   IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
 
-## Awards
-- **National Scholarship** in 2020 (about top 1%)
+## Selected Awards
+- **National Scholarship** in 2020 (about top 1% among 1k+ students)
 
 ## Teaching
 - SEEM 4540: Open Systems for E-Commerce (TA, 2024 Spring)
