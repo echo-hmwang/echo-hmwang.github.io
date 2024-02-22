@@ -37,7 +37,7 @@ My current research mainly focuses on personalized data generation or augmentati
   IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
 
 ## Selected Awards
-- **National Scholarship** in 2020 (about top 1% among 1k+ students)
+- **National Scholarship** in 2020
 
 ## Teaching
 - SEEM 4540: Open Systems for E-Commerce (TA, 2024 Spring)
