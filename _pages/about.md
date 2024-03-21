@@ -12,7 +12,7 @@ I am currently a Ph.D. student supervised by Prof. [Xunying Liu](https://www1.se
 
 My current research mainly focuses on personalized data generation or augmentation based on generative models to enhance the performance of backend automatic speech recognition systems.
 
-[Curriculum_Vitae](https://drive.google.com/file/d/1VnDXiqgZZxD0RPumyaTGcaP4O97ar8dX/view?usp=drive_link)
+[Curriculum_Vitae](https://drive.google.com/file/d/1Ru2pbIz-IOLJfJdr-meqOKpLJhiFbdxl/view?usp=sharing)
 
 ## News
 - *2023.12*: My first Paper was accepted by ICASSP2024.
@@ -37,7 +37,12 @@ My current research mainly focuses on personalized data generation or augmentati
   IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
 
 ## Selected Awards
-- **National Scholarship** in 2020
+
+* **Outstanding Graduate** of Xi'an Jiao Tong University, 2023
+
+* **School Prize** of Xi'an Jiao Tong University, 2021,2022
+
+- **National Scholarship**, 2020
 
 ## Teaching
 - SEEM 4540: Open Systems for E-Commerce (TA, 2024 Spring)
