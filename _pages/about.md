@@ -44,7 +44,7 @@ I am currently a Ph.D. student at The Chinese University of Hong Kong, where I a
   Interspeech 2025
 
 ## Teaching Assistance
-- SEEM 4540: *Open Systems for E-Commerce* (2024|2025 Spring @ CUHK)
+- SEEM 4540: *Open Systems for E-Commerce* (2024 Spring, 2025 Spring @ CUHK)
 
 ## Honors and Awards
 
