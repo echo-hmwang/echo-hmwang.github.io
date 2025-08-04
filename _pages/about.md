@@ -48,9 +48,11 @@ I am currently a Ph.D. student at The Chinese University of Hong Kong, where I a
 
 ## Honors and Awards
 
-* **IEEE Travel Grant Winner** ICASSP 2025
+* **IEEE Travel Grant Winner**, ICASSP 2025
 
 * **Outstanding Graduate** of Xi'an Jiao Tong University, 2023
+
+* **Meritorious Winner** of Interdisciplinary Contest In Modeling, 2022
 
 * **School Prize** of Xi'an Jiao Tong University, 2021,2022
 
