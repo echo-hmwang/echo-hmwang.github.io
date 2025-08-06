@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## About me
-I am currently a Ph.D. student at The Chinese University of Hong Kong, where I am supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/). Prior to this, I received my B.Eng. degree from the Faculty of Electronic and Information Engineering at [Xi'an Jiao Tong University](http://www.xjtu.edu.cn/) in 2023.
+I am currently a Ph.D. candidate at The Chinese University of Hong Kong, where I am supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/). Prior to this, I received my B.Eng. degree from the Faculty of Electronic and Information Engineering at [Xi'an Jiao Tong University](http://www.xjtu.edu.cn/) in 2023.
 
 ## Education
 
@@ -57,3 +57,7 @@ I am currently a Ph.D. student at The Chinese University of Hong Kong, where I a
 * **School Prize** of Xi'an Jiao Tong University, 2021,2022
 
 - **National Scholarship**, 2020
+
+
+
+*Last update: 2025/08/04*
