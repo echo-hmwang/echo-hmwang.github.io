@@ -17,8 +17,6 @@ Speciafically, I focus on:
 * Auto-regressive text-to-speech synthesis
 * Speech tokenizer
 
-<font color="red"><b>I am actively seeking research intership opportunities overseas (outside China). Please feel free to contact me if there are any suitable openings.</b></font>
-
 ## Education
 
 - 2023-now: Ph.D. candidate in SEEM, The Chinese University of Hong Kong
