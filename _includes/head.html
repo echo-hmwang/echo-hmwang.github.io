@@ -21,27 +21,31 @@
 <meta http-equiv="cleartype" content="on">
 
 <style>
-  /* === 核心布局控制 === */
-  @media (min-width: 80em) {
+  /* ======================================================= */
+  /* 1. 仅保留：文字两端对齐 + 自动断词 (让文章像论文一样整齐) */
+  /* ======================================================= */
+  .page__content p, 
+  .page__content li, 
+  .page__content dd {
+    /* 两端对齐 */
+    text-align: justify;
     
-    /* 1. 控制【页面总宽度】(数值越大，两侧空白越少) */
-    /* 推荐：1400px 到 1600px 之间 */
-    .page__inner-wrap {
-      max-width: 1600px !important; 
-    }
+    /* 英文单词自动断行，防止出现大片空白 */
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+  }
 
-    /* 2. 控制【正文与侧边栏的间距】 */
-    /* 给正文左侧加垫片，把正文往右推，防止和侧边栏挤在一起 */
-    .page__content {
-      width: 75% !important; /* 正文占 75% */
-      float: right !important; /* 强制靠右 */
-      padding-left: 60px !important; /* <--- 核心：加大这个数字，间距就会变大 */
-    }
-
-    /* 3. 侧边栏宽度锁定 */
-    .sidebar {
-      width: 20% !important; /* 侧边栏占 20% */
-      float: left !important;
-    }
+  /* ======================================================= */
+  /* 2. 仅保留：头像比例修复 (这不影响布局，只防止头像变椭圆) */
+  /* ======================================================= */
+  .author__avatar img {
+    /* 强制正方形 */
+    aspect-ratio: 1 / 1;
+    /* 裁剪多余部分，不压扁人脸 */
+    object-fit: cover;
+    /* 0=方形，如果你想要圆形改成 50% */
+    border-radius: 0; 
+    width: 100%;
   }
 </style>
