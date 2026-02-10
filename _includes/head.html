@@ -19,3 +19,53 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+<style>
+
+  /* 移除 body 和主要容器的顶部内边距 */
+  body, 
+  .initial-content, 
+  .page, 
+  .archive { /* 关键：加上 .archive 类，专门针对博客列表页 */
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+  }
+  
+  /* 给内容容器一点点上边距，防止文字直接贴着浏览器边缘，不至于太压抑 */
+  .page__inner-wrap {
+    margin-top: 20px !important;
+  }
+
+
+  /* ======================================================= */
+  /* 2. 智能对齐：正文两端对齐，但标签/标题强制靠左 */
+  /* ======================================================= */
+  
+  /* 规则 A: 只有“长段落”启用两端对齐 + 自动断词 */
+  .page__content p {
+    text-align: justify;
+    text-justify: inter-word;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+  }
+
+  /* 规则 B: 【关键修复】列表页的元数据、标签、日期强制靠左 */
+  /* 防止短句被强行拉伸导致排版混乱 */
+  .page__meta,
+  .archive__item-title,
+  .archive__item-excerpt,
+  .archive__subtitle,
+  .page__taxonomy, /* 这是文章底部的 Tags/Categories 标签 */
+  .taxonomy__index {
+    text-align: left !important;
+  }
+
+  /* 规则 C: 修复列表项 (li) 的对齐 */
+  /* 如果是博客列表里的 li，我们希望它左对齐；如果是正文里的 li，可以两端对齐 */
+  .archive__item li {
+    text-align: left !important;
+  }
+  
+
+</style>
