@@ -19,3 +19,59 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+<style>
+  /* 1. 针对大屏幕，强制把整体容器拉宽 */
+  @media (min-width: 80em) {
+    /* 将最大宽度设为 1600px 或者 90% */
+    .page, .archive, .single {
+      max-width: 1600px !important;
+      padding-left: 1em; /* 稍微留点边距 */
+      padding-right: 1em;
+    }
+  }
+
+  /* 2. (可选) 优化正文阅读体验 */
+  /* 防止一行文字太长，我们限制正文内容的宽度，但让它靠左，右边留白给目录或空着 */
+  @media (min-width: 80em) {
+    .page__content {
+      /* 限制正文最大宽度为 1000px，剩下的空间留白，这样阅读体验最好 */
+      max-width: 1000px; 
+      /* 让文字两端对齐，看起来更整齐专业 */
+      text-align: justify;
+    }
+    
+    /* 让侧边栏和正文的间距稍微大一点 */
+    .sidebar {
+      margin-right: 40px;
+    }
+  }
+</style>
+
+<style>
+  /* 1. 针对大屏幕，强制把整体容器拉宽 */
+  @media (min-width: 80em) {
+    /* 将最大宽度设为 1600px 或者 90% */
+    .page, .archive, .single {
+      max-width: 1600px !important;
+      padding-left: 1em; /* 稍微留点边距 */
+      padding-right: 1em;
+    }
+  }
+
+  /* 2. (可选) 优化正文阅读体验 */
+  /* 防止一行文字太长，我们限制正文内容的宽度，但让它靠左，右边留白给目录或空着 */
+  @media (min-width: 80em) {
+    .page__content {
+      /* 限制正文最大宽度为 1000px，剩下的空间留白，这样阅读体验最好 */
+      max-width: 1000px; 
+      /* 让文字两端对齐，看起来更整齐专业 */
+      text-align: justify;
+    }
+    
+    /* 让侧边栏和正文的间距稍微大一点 */
+    .sidebar {
+      margin-right: 40px;
+    }
+  }
+</style>

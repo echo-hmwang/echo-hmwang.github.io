@@ -16,12 +16,28 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
+    <div style="font-size: 0.9em; color: #666; margin-bottom: 10px; font-style: italic;">
+      📸 A blurry-eyed post-coding break.
+    </div>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
+
+      <li>
+        <div style="margin-bottom: 10px; border-bottom: 1px solid #e2e2e2; padding-bottom: 10px;">
+          <a href=" " style="display: block; margin-bottom: 5px; font-weight: bold; color: #494e52;">
+            <i class="fas fa-fw fa-book-open" aria-hidden="true"></i> Publications
+          </a >
+          
+          <a href="/blogs/" style="display: block; font-weight: bold; color: #494e52;">
+            <i class="fas fa-fw fa-pen-nib" aria-hidden="true"></i> Blogs
+          </a >
+        </div>
+      </li>
+
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}

@@ -7,8 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About me
-I am currently a Ph.D. candidate at The Chinese University of Hong Kong, where I am supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/). Prior to this, I received my B.Eng. degree from the Faculty of Electronic and Information Engineering at [Xi'an Jiao Tong University](http://www.xjtu.edu.cn/) in 2023.
+I'm currently a third-year Ph.D. candidate at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/) and working closely with Prof. [Xurong Xie](https://people.ucas.edu.cn/~xrxie?language=en). Before that, I received my B.Eng. degree from the Faculty of Electronic and Information Engineering at [Xi'an Jiao Tong University](http://www.xjtu.edu.cn/) in 2023.
+
+My research contributes to more accessible and natural speech interaction by advancing speech foundation models for diverse scenarios, ranging from specialized AI healthcare (e.g. pathological speech recognition) to universal speech generation (e.g. expressive text-to-speech synthesis).
+
+Speciafically, I focus on:
+
+* Dysarthric speech recognition
+* Auto-regressive text-to-speech synthesis
+* Speech tokenizer
+
+<!-- <font color="red"><b>I am actively seeking research intership opportunities overseas (outside China). Please feel free to contact me if there are any suitable openings.</b></font> -->
 
 ## Education
 
@@ -18,6 +27,8 @@ I am currently a Ph.D. candidate at The Chinese University of Hong Kong, where I
 
 ## Selected Publications
 *\* denotes equal contribution.*
+
+**Speech technologies for healthcare**
 
 * Phone-purity Guided Discrete Token for Dysarthric Speech Recognition [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10889032)
 
@@ -43,8 +54,9 @@ I am currently a Ph.D. candidate at The Chinese University of Hong Kong, where I
 
   Interspeech 2025
 
-## Teaching Assistance
-- SEEM 4540: *Open Systems for E-Commerce* (2024 Spring, 2025 Spring @ CUHK)
+## Teaching Assistant Experience
+- **SEEM 4540: Open Systems for E-Commerce** ( [CUHK](https://www.cuhk.edu.hk/chinese/index.html) | Spring 2024, 2025, 2026)
+- **SEEM 3440: Operations Research II** ( [CUHK](https://www.cuhk.edu.hk/chinese/index.html) | Fall 2025)
 
 ## Honors and Awards
 
@@ -60,4 +72,4 @@ I am currently a Ph.D. candidate at The Chinese University of Hong Kong, where I
 
 
 
-*Last update: 2025/08/04*
+*Last update: 2026/02/10*
