@@ -5,7 +5,7 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 1em;
+  margin-top: 0em;
   padding-left: 1em;
   padding-right: 1em;
   animation: intro 0.3s both;
@@ -18,9 +18,10 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    width: 100%;
+    float: none;
+    margin: 0;
+    padding: 0;
   }
 
   .page__inner-wrap {
@@ -36,6 +37,7 @@
 
 .page__title {
   margin-top: 0;
+  padding-top: 0.5em;
   line-height: 1;
 
   & + .page__meta {
@@ -62,6 +64,8 @@
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
+
+    text-align: justify;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
