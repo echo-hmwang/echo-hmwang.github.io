@@ -5,7 +5,9 @@ author_profile: true
 layout: single
 ---
 
-## Selected Papers
+## Journal
+
+## Conference
 * **Paper Title 1**
     * Authors...
     * [PDF link]

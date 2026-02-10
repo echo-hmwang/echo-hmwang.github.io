@@ -92,18 +92,53 @@
   
   /* 让名字变得非常醒目 */
   .author__name {
-    font-size: 1.8em !important; /* 默认约 1em，改大到 1.8倍 */
-    font-weight: 900 !important; /* 最粗字体 */
+    font-size: 1.0em !important; /* 默认约 1em，改大到 1.8倍 */
+    font-weight: 700 !important; /* 最粗字体 */
     margin-bottom: 5px !important;
     letter-spacing: -0.5px; /*稍微紧凑一点，更有现代感*/
   }
 
   /* 针对那个“blurry-eyed”说明文字的优化 */
   .author__bio {
-    font-size: 0.95em !important; /* 字体稍微改小一点点，显得精致 */
-    line-height: 1.6 !important;  /* 增加行高，让折行后不挤 */
+    font-size: 0.7em !important; /* 字体稍微改小一点点，显得精致 */
+    line-height: 1.0 !important;  /* 增加行高，让折行后不挤 */
     margin-top: 10px !important;
     font-style: italic; /* 可选：变成斜体更有“独白”的感觉 */
     color: #555; /* 颜色稍微淡一点，突出名字 */
+  }
+
+  @media (min-width: 64em) {
+    
+    /* 【容器】拉宽到屏幕的 95% (之前可能是固定像素导致太窄) */
+    .page__inner-wrap {
+      max-width: 95vw !important; /* Viewport Width */
+      width: 95vw !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+
+    /* 【侧边栏】固定占 20% 宽度 */
+    .sidebar {
+      width: 20% !important;
+      float: left !important;
+      margin-right: 2% !important; /* 侧边栏和正文之间留 2% 缝隙 */
+    }
+
+    /* 【正文】拉宽到 78% (填满剩余空间) */
+    /* 20% + 2% + 78% = 100% */
+    .page__content {
+      width: 78% !important; 
+      float: right !important;
+      
+      /* 核心：清除右边距，让文字能延伸到屏幕最右边 */
+      margin-right: 0 !important; 
+      padding-right: 0 !important;
+    }
+    
+    /* 同时也把博客/论文列表页拉宽 */
+    .archive {
+      width: 78% !important;
+      float: right !important;
+    }
   }
 </style>

@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts by Topic"
+title: "Blog Posts"
 layout: single
 permalink: /blogs/
 author_profile: true
