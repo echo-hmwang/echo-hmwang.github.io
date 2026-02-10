@@ -17,7 +17,7 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     <div style="font-size: 0.9em; color: #666; margin-bottom: 10px; font-style: italic;">
-      📸 A blurry-eyed post-coding break.
+      📸 A blurry-eyed <br> post-coding break.
     </div>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
@@ -29,7 +29,7 @@
     <li>
       <div style="margin-bottom: 10px; border-bottom: 1px solid #e2e2e2; padding-bottom: 10px;">
         
-        <a href=" '/' | relative_url }}" style="display: block; margin-bottom: 5px; font-weight: bold; color: #494e52; text-decoration: none;">
+        <a href="{{ site.baseurl }}/" style="display: block; margin-bottom: 5px; font-weight: bold; color: #494e52; text-decoration: none;">
           <i class="fas fa-fw fa-home" aria-hidden="true"></i> About Me
         </a >
 
