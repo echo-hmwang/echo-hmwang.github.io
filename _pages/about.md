@@ -55,8 +55,8 @@ Speciafically, I focus on:
   Interspeech 2025
 
 ## Teaching Assistant Experience
-- **SEEM 4540: Open Systems for E-Commerce** ( [CUHK](https://www.cuhk.edu.hk/chinese/index.html) | Spring 2024, 2025, 2026)
-- **SEEM 3440: Operations Research II** ( [CUHK](https://www.cuhk.edu.hk/chinese/index.html) | Fall 2025)
+* **SEEM 4540: Open Systems for E-Commerce** ( [CUHK](https://www.cuhk.edu.hk/chinese/index.html) | Spring 2024, 2025, 2026)
+* **SEEM 3440: Operations Research II** ( [CUHK](https://www.cuhk.edu.hk/chinese/index.html) | Fall 2025)
 
 ## Honors and Awards
 
